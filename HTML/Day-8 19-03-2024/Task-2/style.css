@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Arya:wght@400;700&family=Holtwood+One+SC&family=Niramit:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Shadows+Into+Light&display=swap');
+
+
+h1{
+    color:#A329A8;
+    background-color: #A88C28;
+    font-family: 'Holtwood One SC', serif;
+}
+.list-style{
+    color:#ffffff;
+    background-color: #000000;
+    font-family:"Niramit", sans-serif ;
+    list-style: none;
+}
+
+.para{
+    color:#A82828;
+    background-color: #EFC3CA;
+    font-family:  "Niramit", sans-serif;
+    font-weight:400;
+    font-size:24px;
+
+}
+#head{
+    color:#A88C28;
+    font-family: 'Holtwood One SC', 'serif';
+    font-weight:500;
+    font-size:30px;
+
+}
